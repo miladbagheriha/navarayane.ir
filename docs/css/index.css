@@ -54,7 +54,7 @@ header h1 {
 }
 
 .services li::before {
-    content: "📌";
+    content: "✅";
     margin-left: 10px;
 }
 
